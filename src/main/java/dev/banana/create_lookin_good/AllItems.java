@@ -4,7 +4,6 @@ import com.simibubi.create.foundation.item.ItemDescription;
 import com.tterrag.registrate.util.entry.ItemEntry;
 import dev.banana.create_lookin_good.items.*;
 import net.minecraft.item.Item;
-import net.minecraft.registry.Registries;
 import net.minecraft.registry.RegistryKeys;
 
 import static com.simibubi.create.AllTags.forgeItemTag;
@@ -46,6 +45,13 @@ public class AllItems {
             .tag(forgeItemTag("helmets"))
             .register();
 
+    public static final ItemEntry<GrayNetheriteDivingHelmet> GRAY_NETHERITE_DIVING_HELMET = REGISTRATE
+            .item("gray_netherite_diving_helmet", GrayNetheriteDivingHelmet::new)
+            .onRegisterAfter(RegistryKeys.ITEM, v -> ItemDescription.useKey(v, "item.create.netherite_diving_helmet"))
+            .properties(Item.Settings::fireproof)
+            .tag(forgeItemTag("helmets"))
+            .register();
+
     public static final ItemEntry<LightBlueNetheriteDivingHelmet> LIGHT_BLUE_NETHERITE_DIVING_HELMET = REGISTRATE
             .item("light_blue_netherite_diving_helmet", LightBlueNetheriteDivingHelmet::new)
             .onRegisterAfter(RegistryKeys.ITEM, v -> ItemDescription.useKey(v, "item.create.netherite_diving_helmet"))
@@ -53,8 +59,8 @@ public class AllItems {
             .tag(forgeItemTag("helmets"))
             .register();
 
-    public static final ItemEntry<LightGreyNetheriteDivingHelmet> LIGHT_GREY_NETHERITE_DIVING_HELMET = REGISTRATE
-            .item("light_grey_netherite_diving_helmet", LightGreyNetheriteDivingHelmet::new)
+    public static final ItemEntry<LightGrayNetheriteDivingHelmet> LIGHT_GRAY_NETHERITE_DIVING_HELMET = REGISTRATE
+            .item("light_gray_netherite_diving_helmet", LightGrayNetheriteDivingHelmet::new)
             .onRegisterAfter(RegistryKeys.ITEM, v -> ItemDescription.useKey(v, "item.create.netherite_diving_helmet"))
             .properties(Item.Settings::fireproof)
             .tag(forgeItemTag("helmets"))

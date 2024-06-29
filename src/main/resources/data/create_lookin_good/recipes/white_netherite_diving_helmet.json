@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dyed_helmets",
+  "ingredients": [
+    {
+      "item": "create:netherite_diving_helmet"
+    },
+    {
+      "item": "minecraft:white_dye"
+    }
+  ],
+  "result":  {
+    "item": "create_lookin_good:white_netherite_diving_helmet",
+    "count": 1
+  }
+}
