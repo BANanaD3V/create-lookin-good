@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "create-lookin-good",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"name": "Create: Lookin' Good",
 	"description": "A mod that adds armor customizability to create.",
 	"authors": [
