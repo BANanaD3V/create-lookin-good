@@ -1,0 +1,35 @@
+{
+	"schemaVersion": 1,
+	"id": "create-lookin-good",
+	"version": "0.0.1",
+	"name": "Create: Lookin' Good",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/create-lookin-good/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.banana.create_lookin_good.CreateLookinGood"
+		],
+		"fabric-datagen": [
+			"dev.banana.create_lookin_good.CreateLookinGoodDataGenerator"
+		]
+	},
+	"mixins": [
+		"create-lookin-good.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*",
+		"create": "0.5.1-f-build.1417+mc1.20.1"
+	}
+}
