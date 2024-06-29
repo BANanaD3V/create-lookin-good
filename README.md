@@ -16,6 +16,7 @@ Please make an issue on GitHub.
 Yes, we're happy to accept contributions from you, especially if you know modding better.
 
 # Credits:
-Code - [BANanaD3V](https://github.com/BANanaD3V)
-Art - [Lucyamonster](https://github.com/lucyamonster) 
-Assets - [Create](https://github.com/creators-of-create/create)
+
+- Code - [BANanaD3V](https://github.com/BANanaD3V)
+- Art - [Lucyamonster](https://github.com/lucyamonster) 
+- Assets - [Create](https://github.com/creators-of-create/create)
