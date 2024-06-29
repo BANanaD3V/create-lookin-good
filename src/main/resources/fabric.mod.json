@@ -1,11 +1,12 @@
 {
 	"schemaVersion": 1,
 	"id": "create-lookin-good",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"name": "Create: Lookin' Good",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"BANanaDEV",
+		"lucyamonster"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
@@ -22,9 +23,6 @@
 			"dev.banana.create_lookin_good.CreateLookinGoodDataGenerator"
 		]
 	},
-	"mixins": [
-		"create-lookin-good.mixins.json"
-	],
 	"depends": {
 		"fabricloader": ">=0.15.11",
 		"minecraft": "~1.20.1",
