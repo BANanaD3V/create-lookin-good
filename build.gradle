@@ -1,6 +1,5 @@
 plugins {
 	id 'fabric-loom' version '1.7-SNAPSHOT'
-	id "io.github.p03w.machete" version "1.+" // automatic jar compressing on build
 	id 'maven-publish'
 }
 
@@ -60,11 +59,6 @@ processResources {
 
 tasks.withType(JavaCompile).configureEach {
 	it.options.release = 17
-}
-
-machete {
-	// disable machete locally for faster builds
-	enabled = buildNumber != null
 }
 
 java {
