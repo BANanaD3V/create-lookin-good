@@ -1,18 +1,18 @@
 {
 	"schemaVersion": 1,
 	"id": "create-lookin-good",
-	"version": "0.0.3",
+	"version": "0.1.0",
 	"name": "Create: Lookin' Good",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod that adds armor customizability to create.",
 	"authors": [
 		"BANanaDEV",
 		"lucyamonster"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://modrinth.com/mod/create-lookin-good",
+		"sources": "https://github.com/BANanaD3V/create-lookin-good"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/create-lookin-good/icon.png",
 	"environment": "*",
 	"entrypoints": {

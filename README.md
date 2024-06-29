@@ -1,20 +1,21 @@
-Create: lookin' good is a small cosmetics addony, For the Create minecraft mod.
+# `Create: lookin' good` is a small cosmetics addon for the Create minecraft mod.
 
-Features:
+# Features:
 
-Customisable nethrite diving helmet visors.
+- Customisable nethrite diving helmet visors.
 
-QnA:
+# QnA:
 
-Could you please add this?
-Make a GitHub issue or tell us on discord and Maybe we'll do add it.(If you want, you can add the feature your self and add it to the issue)
+## Could you please add this?
+Make a GitHub issue or tell us on discord and Maybe we'll do add it. If you want, you can add the feature yourself and create a pull request.
 
-I found a bug! 
+## I found a bug! 
 Please make an issue on GitHub.
 
-Can I help or contribute? 
-Yes, we're currently looking for a person that would maintain the project long term.
+## Can I help or contribute? 
+Yes, we're happy to accept contributions from you, especially if you know modding better.
 
-Credits:
-
-Code - Banandev Art - Lucyamonster Assets - Create
+# Credits:
+Code - [BANanaD3V](https://github.com/BANanaD3V)
+Art - [Lucyamonster](https://github.com/lucyamonster) 
+Assets - [Create](https://github.com/creators-of-create/create)
