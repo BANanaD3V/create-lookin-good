@@ -1,22 +1,26 @@
-# `Create: lookin' good` is a small cosmetics addon for the Create minecraft mod.
+![Create: Lookin' Good logo](https://cdn.modrinth.com/data/cached_images/36f767902c2fc3fb2936c99e014d2dfc20695893.png)
+
+Create: Lookin' Good is an addon that adds visual improvements to create.
 
 # Features:
+- Dyeable helmet visors
 
-- Customisable nethrite diving helmet visors.
+# To-Do:
+- Dyable visors like leather armor
+- Armor trims
 
 # QnA:
+- **I found a bug!** - report the issue on the issue tracker
+- **I want to request a feature!** - create an issue on the tracker
+- **What are the recipies?** - use JEI or similar mods
+- **I want to translate the mod!** - you are welcome to do so. Create a pull request and we will review it.
 
-## Could you please add this?
-Make a GitHub issue or tell us on discord and Maybe we'll do add it. If you want, you can add the feature yourself and create a pull request.
+# Dependencies:
 
-## I found a bug! 
-Please make an issue on GitHub.
+- Create (required)
+- Fabric API (required)
+- JEI (recommended)
 
-## Can I help or contribute? 
-Yes, we're happy to accept contributions from you, especially if you know modding better.
-
-# Credits:
-
-- Code - [BANanaD3V](https://github.com/BANanaD3V)
-- Art - [Lucyamonster](https://github.com/lucyamonster) 
-- Assets - [Create](https://github.com/creators-of-create/create)
+# Other places:
+- ![Modrinth](https://modrinth.com/mod/create-lookin-good/settings/description)
+- ![Discord](https://discord.gg/EbsxK4Ma)
