@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "create:netherite_diving_helmet",
+    "create_lookin_good:black_netherite_diving_helmet",
+    "create_lookin_good:blue_netherite_diving_helmet",
+    "create_lookin_good:brown_netherite_diving_helmet",
+    "create_lookin_good:cyan_netherite_diving_helmet",
+    "create_lookin_good:gray_netherite_diving_helmet",
+    "create_lookin_good:green_netherite_diving_helmet",
+    "create_lookin_good:light_blue_netherite_diving_helmet",
+    "create_lookin_good:light_gray_netherite_diving_helmet",
+    "create_lookin_good:lime_netherite_diving_helmet",
+    "create_lookin_good:magenta_netherite_diving_helmet",
+    "create_lookin_good:orange_netherite_diving_helmet",
+    "create_lookin_good:pink_netherite_diving_helmet",
+    "create_lookin_good:purple_netherite_diving_helmet",
+    "create_lookin_good:red_netherite_diving_helmet",
+    "create_lookin_good:yellow_netherite_diving_helmet",
+    "create_lookin_good:white_netherite_diving_helmet"
+  ]
+}

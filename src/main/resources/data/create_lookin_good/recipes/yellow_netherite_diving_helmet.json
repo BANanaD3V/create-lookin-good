@@ -3,7 +3,7 @@
   "group": "dyed_helmets",
   "ingredients": [
     {
-      "item": "create:netherite_diving_helmet"
+      "tag": "create_lookin_good:netherite_diving_helmets"
     },
     {
       "item": "minecraft:yellow_dye"
