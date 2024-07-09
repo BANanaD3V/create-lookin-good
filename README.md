@@ -23,4 +23,4 @@
 
 ## Made By Humans
 
-[<img src="https://humanmademark.com/white">](https://humanmademark.com)
+[<img src="https://humanmademark.com/white-logo.png">](https://humanmademark.com)
