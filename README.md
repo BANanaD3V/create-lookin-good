@@ -23,4 +23,4 @@
 
 ## Made By Humans
 
-![The Humanmade Mark](https://github.com/BANanaD3V/create-lookin-good/assets/145208219/5041bfe4-89f2-4838-a915-9373ef306836)
+[<img src="https://humanmademark.com/white">](https://humanmademark.com)
